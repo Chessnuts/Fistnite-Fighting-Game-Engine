@@ -1,0 +1,3 @@
+﻿  Application.cpp
+C:\Users\ryanc\Documents\GitHub\Fistnite-Fighting-Game-Engine\Fistnite\Test\src\Application.cpp(8,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Test.vcxproj -> C:\Users\ryanc\Documents\GitHub\Fistnite-Fighting-Game-Engine\Fistnite\bin\Debug-x64\Test\Test.exe

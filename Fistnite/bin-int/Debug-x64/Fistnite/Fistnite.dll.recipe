@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\ryanc\Documents\GitHub\Fistnite-Fighting-Game-Engine\Fistnite\Debug\Fistnite.exe</FullPath>
+      <FullPath>C:\Users\ryanc\Documents\GitHub\Fistnite-Fighting-Game-Engine\Fistnite\bin\Debug-x64\Fistnite\Fistnite.dll</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
