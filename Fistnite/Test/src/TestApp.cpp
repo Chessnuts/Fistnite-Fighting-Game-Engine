@@ -1,23 +1,21 @@
 
 #include <Fistnite.h>
 
-class Test : public Fistnite::Application
+class TestApp : public Fistnite::Application
 {
 public:
-	Test()
+	TestApp()
 	{
 
 	}
 
-	~Test()
+	~TestApp()
 	{
 
 	}
 };
 
-int main()
+Fistnite::Application* Fistnite::CreateApplication()
 {
-	Test* test = new Test();
-	test->Run();
-	delete test;
+	return new TestApp();
 }

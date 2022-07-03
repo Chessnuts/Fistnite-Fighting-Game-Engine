@@ -1,3 +1,4 @@
+
 #include "Application.h"
 
 
@@ -11,6 +12,7 @@ namespace Fistnite
 	{
 	}
 
+	//Function to run application
 	void Application::Run()
 	{
 		while (true);
