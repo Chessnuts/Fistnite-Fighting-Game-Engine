@@ -5,7 +5,7 @@
 
 #include <stdio.h>
 #include "Fistnite/Application.h"
-
+#include "Fistnite/Log.h"
 
 // ------------------------------- //
 // --------- Entry point --------- //

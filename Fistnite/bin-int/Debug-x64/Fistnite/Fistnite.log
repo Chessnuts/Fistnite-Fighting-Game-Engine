@@ -1,2 +1,6 @@
-﻿  Application.cpp
+﻿  Log.cpp
+C:\Users\ryanc\Documents\GitHub\Fistnite-Fighting-Game-Engine\Fistnite\Fistnite\src\Fistnite\Log.h(14,42): warning C4251: 'Fistnite::Log::s_CoreLogger': class 'std::shared_ptr<spdlog::logger>' needs to have dll-interface to be used by clients of class 'Fistnite::Log'
+C:\Users\ryanc\Documents\GitHub\Fistnite-Fighting-Game-Engine\Fistnite\Fistnite\vendor\spdlog\include\spdlog\details\registry.h(34): message : see declaration of 'std::shared_ptr<spdlog::logger>'
+C:\Users\ryanc\Documents\GitHub\Fistnite-Fighting-Game-Engine\Fistnite\Fistnite\src\Fistnite\Log.h(15,42): warning C4251: 'Fistnite::Log::s_ClientLogger': class 'std::shared_ptr<spdlog::logger>' needs to have dll-interface to be used by clients of class 'Fistnite::Log'
+C:\Users\ryanc\Documents\GitHub\Fistnite-Fighting-Game-Engine\Fistnite\Fistnite\vendor\spdlog\include\spdlog\details\registry.h(34): message : see declaration of 'std::shared_ptr<spdlog::logger>'
   Fistnite.vcxproj -> C:\Users\ryanc\Documents\GitHub\Fistnite-Fighting-Game-Engine\Fistnite\bin\Debug-x64\Fistnite\Fistnite.dll

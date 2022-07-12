@@ -1,7 +1,7 @@
 # Directories
-.vs/
-bin/
-bin-int/
+Fistnite/.vs/
+Fistnite/bin/
+Fistnite/bin-int/
 
 #files
 .user

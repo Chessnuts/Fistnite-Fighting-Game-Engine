@@ -1,0 +1,3 @@
+[submodule "Fistnite/Fistnite/vendor/spdlog"]
+	path = Fistnite/Fistnite/vendor/spdlog
+	url = https://github.com/gabime/spdlog
